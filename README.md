@@ -1,7 +1,7 @@
 # PaddleBounce
 Jeu inspiré du classic _Pong_ et qui devra être réparé par des étudiants.
 
-### Choses à réparer: _(1 point)_
+### Choses à réparer _(1 point)_
 
  * Mettre le bon `GameMode`.
  * Choisir le bon `Pawn` par défaut qui sera instancié par le `GameMode`.
@@ -13,14 +13,14 @@ Jeu inspiré du classic _Pong_ et qui devra être réparé par des étudiants.
  * Ajustement du rebond de la balle.
  
 
-### Chose à ajouter: _(1 point)_
+### Chose à ajouter _(1 point)_
 
  * Réinitialisation de la balle lorsqu'elle quitte l'aire de jeu.
 
 
 ### Modalités
 
- * Peut être fait en équipe de 2 ou 3 personnes. Ces équipes ne sont pas nécessairement les mêmes que pour le travail final.
+ * Peut être fait en équipe de 2 ou 3 étudiants. Vous n'avez pas à choisir les mêmes coéquippiers que pour le travail final.
  * Vaut 2 points sur la session.
  * À remettre dans un `.zip` via la plateforme _Moodle_.
  * À remettre au plus tard le 9 octobre à 23h59.
