@@ -23,6 +23,6 @@ Jeu inspiré du classic _Pong_ et qui devra être réparé par des étudiants.
  * Peut être fait en équipe de 2 ou 3 étudiants. Vous n'avez pas à choisir les mêmes coéquippiers que pour le travail final.
  * Vaut 2 points sur la session.
  * À remettre dans un `.zip` via la plateforme _Moodle_.
- * À remettre au plus tard le 9 octobre à 23h59.
+ * À remettre au plus tard le 16 octobre à 23h59.
 
 **Les travaux pratiques se suivront et continueront un seul et même projet. Donnez vous une chance en respectant les délais et en travaillant proprement.**
