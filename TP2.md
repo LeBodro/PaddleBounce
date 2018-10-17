@@ -1,5 +1,7 @@
 # TP2 - Feedback et animation dans Unreal Engine 4
 
+Des fichiers sont à votre disposition pour vous aider à compléter ce travail. Vous pouvez utiliser la commande `git pull` à partir de votre projet (si vous avez utilisé Git) ou les télécharger [ici](https://github.com/LeBodro/PaddleBounce/tree/master/Content/Feedback).
+
 ### Modalités
 
  * Peut être fait en équipe de 2 ou 3 étudiants. Vous n'avez pas à choisir les mêmes coéquippiers que pour le travail final.
