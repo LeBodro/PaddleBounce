@@ -24,12 +24,15 @@
  * Jouer cet effet lors d'un événement qui n'en a pas encore (rebond sur mur, explosion ou mise en jeu de la balle).
  
 
-### Animation _(0,5 point)_
+### Personnage animé _(0,5 point)_
 
- * À suivre la semaine prochaine.
+ * Importer un personnage dans Unreal.
+ * Donner une animation "par défaut" au personnage.
+ * Jouer une animation différente lorsque la balle quitte l'aire de jeu.
 
 
 ### Liens
 
 * [Fichiers téléchargeables](https://github.com/LeBodro/PaddleBounce/tree/master/Content/Feedback) ou `git pull`.
 * [Tutoriaux en anglais sur les systèmes de particules.](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYDLyB3LVfjYIcbBe8NqR8t)
+* [Mixamo, pour télécharger personnage et animations](https://www.mixamo.com/)
