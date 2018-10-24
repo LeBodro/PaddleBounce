@@ -5,7 +5,7 @@
  * Peut être fait en équipe de 2 ou 3 étudiants. Vous n'avez pas à choisir les mêmes coéquippiers que pour le travail final.
  * Vaut 2 points sur la session.
  * À remettre dans un `.zip` **par équipe** via la plateforme _Moodle_. **Ajoutez un fichier avec les noms des participants.**
- * À remettre au plus tard le 24 octobre à 23h59.
+ * À remettre au plus tard le 24 octobre à 23h55.
 
 **Les travaux pratiques se suivront et continueront un seul et même projet. Donnez vous une chance en respectant les délais et en travaillant proprement.**
 
