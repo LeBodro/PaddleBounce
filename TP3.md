@@ -28,7 +28,7 @@
 ### Scores en jeu _(0,6 point)_
 
  * affichage de deux scores;
- * compatabilisation des scores (méthode au choix);
+ * comptabilisation des scores (méthode au choix);
  * annonce du grand gagnant **(Ne pas exagérer sur le nombre de points requis pour gagner ou perdre dans la version du projet qui sera livrée)**.
 
 
