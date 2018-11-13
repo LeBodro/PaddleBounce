@@ -3,6 +3,8 @@ Jeu inspiré du classic _Pong_ et qui devra être réparé et amélioré par des
 
 - [TP1](https://github.com/LeBodro/PaddleBounce/blob/master/TP1.md)
 - [TP2](https://github.com/LeBodro/PaddleBounce/blob/master/TP2.md)
+- [TP3](https://github.com/LeBodro/PaddleBounce/blob/master/TP3.md)
+- [TP4](https://github.com/LeBodro/PaddleBounce/blob/master/TP4.md)
 
 
 ### Modalités générales pour l'exécution et la remise de travaux
