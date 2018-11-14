@@ -20,7 +20,7 @@
 
  * La balle.
  * Les palettes.
- * Les scores (inclut le plus haut score).
+ * Les scores.
  
 ### Liens
  
