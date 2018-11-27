@@ -12,7 +12,7 @@
 
 ### Comportement voulu _(1 point)_
 
- * Le jeu doit offrir une option multijoueur et se jouer avec deux ordinateurs.
+ * Le jeu doit pouvoir se jouer en multijoueur (vous pouvez l'obliger ou offrir l'option de le faire).
  * Chaque joueur doit contrôler une palette.
  * Le jeu attend que les deux joueurs soient présents avant de commencer la partie.
  
@@ -20,9 +20,9 @@
 
  * La balle.
  * Les palettes.
- * Les scores.
  
 ### Liens
  
  * [Documentation sur le multijoueur en blueprints](https://docs.unrealengine.com/en-us/Gameplay/Networking/Blueprints)
  * [Multiples liens vers les fonctionnalités réseau de Unreal](https://docs.unrealengine.com/en-us/Gameplay/Networking)
+ * [Tutoriels vidéos officiels (en anglais)](https://www.youtube.com/watch?v=TbaOyvWfJE0&list=PLZlv_N0_O1gYwhBTjNLSFPRiBpwe5sTwc&index=1)
