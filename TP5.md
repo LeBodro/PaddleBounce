@@ -21,6 +21,8 @@
  * La balle.
  * Les palettes.
  
+ **En somme, s'il y a deux palettes et une balles, qu'elles sont synchronisées et que ça fonctionne si je lance le niveau directement (pas besoin de passer par le menu) vous aurez 100% pour ce TP. Je vous encourage à pousser plus loin pour votre culture personnelle.**
+ 
 ### Liens
  
  * [Documentation sur le multijoueur en blueprints](https://docs.unrealengine.com/en-us/Gameplay/Networking/Blueprints)
